@@ -56,6 +56,3 @@ La base de datos debe cumplir con las siguientes características:
 - **Lenguaje SQL** → inserción de datos.
 
 
-
-El nombre de la base es:
-
